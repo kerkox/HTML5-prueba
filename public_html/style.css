@@ -1,0 +1,55 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28/08/2015, 03:58:54 PM
+    Author     : zeus
+*/
+
+#title{
+    alignment-adjust: central;
+    font-family: sans-serif;
+    font-size: 45px;
+    color: deeppink;
+}
+.zona1{
+    position: relative;
+    left: 0%;
+    alignment-adjust: central;
+    cursor: progress;
+}
+.zona2{
+    position: relative;
+    left: 0%;
+    alignment-adjust: central;
+    cursor:  pointer;
+}
+#zona3{
+    position: relative;
+    left: 0%;
+    alignment-adjust: central;
+    cursor: move;
+}
+
+ body{
+    background: #72e6f6;
+    border-color: #21373c;
+    border-style: double;
+}
+
+div {
+    border-color: #898ced;
+    border-style: solid;
+    border-spacing: 10px;
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+}
+div div{
+    border-color: #cd592a;
+}
+
+a{
+    
+}
